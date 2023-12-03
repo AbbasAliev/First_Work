@@ -1,5 +1,12 @@
 {
   "dependencies": {
     "cypress": "^13.4.0"
+    
+  },
+  "scripts": {
+    "bilirem": "cypress open"
   }
+
 }
+
+
